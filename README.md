@@ -16,11 +16,16 @@ and more, using Selenium WebDriver and TestNG.
 ## Project Structure
 src/
 
-├── main/
-└── test/
-├── java/
-│ └── com/yourusername/orangehrm/tests/
-└── resources/
+orangehrm-automation/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   └── test/
+│       └── java/
+│           └── com/orangehrm/tests/
+├── pom.xml
+└── README.md
+
 
 
 - `src/main/`: Contains the main application code (if any).
