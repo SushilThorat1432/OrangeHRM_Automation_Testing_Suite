@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-31T14:42:30 IST" name="Default suite" finished-at="2024-08-31T14:43:12 IST" duration-ms="42258">
+    <groups>
+    </groups>
+    <test started-at="2024-08-31T14:42:30 IST" name="Default test" finished-at="2024-08-31T14:43:12 IST" duration-ms="42258">
+      <class name="com.OrangeHRM.Tests.PunchOutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.OrangeHRM.Tests.PunchOutTest@6025e1b6]" started-at="2024-08-31T14:42:30 IST" name="setup" finished-at="2024-08-31T14:42:50 IST" duration-ms="19418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="punchOutAction()[pri:0, instance:com.OrangeHRM.Tests.PunchOutTest@6025e1b6]" started-at="2024-08-31T14:42:50 IST" name="punchOutAction" finished-at="2024-08-31T14:43:12 IST" duration-ms="22780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- punchOutAction -->
+      </class> <!-- com.OrangeHRM.Tests.PunchOutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
