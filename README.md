@@ -1,4 +1,5 @@
 OrangeHRM Automation Testing Suite
+
 Project Overview
 This project is an automation testing suite for the OrangeHRM demo application. It covers key functionalities such as login, employee management, leave management, and more, using Selenium WebDriver and TestNG.
 
